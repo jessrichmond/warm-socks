@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: linear-gradient(to bottom right, red, yellow);
+}
+
+.App {
+  /* background-color: white; */
+  max-width: 75%;
+  margin: 0 auto;
+}
